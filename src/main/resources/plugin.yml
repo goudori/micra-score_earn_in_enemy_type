@@ -1,0 +1,6 @@
+name: Micra_Twentyseven
+version: '${version}'
+main: plugin.micra_twentyseven.Main
+api-version: '1.20'
+commands:
+  enemydown:
